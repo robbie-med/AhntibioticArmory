@@ -1,5 +1,7 @@
 # Antibiotic Armory
 
+![Antibiotic Armory screenshot](screenshot.png)
+
 A timed clinical decision-making simulator for antibiotic prescribing. Players are presented with real inpatient and outpatient infectious disease scenarios, select antibiotics from a drag-and-drop shelf, and receive scored feedback on coverage, safety, stewardship, dosing, and speed.
 
 Built with React, Vite, TypeScript, and Tailwind CSS. No backend required.
