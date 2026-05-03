@@ -1,0 +1,6 @@
+{
+  "name": "Antibiotic Armory",
+  "description": "Train rapid, pattern-based antibiotic selection using the sequence: syndrome -> likely organisms -> patient constraints -> empiric therapy -> culture interpretation -> de-escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
